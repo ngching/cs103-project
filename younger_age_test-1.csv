@@ -1,0 +1,5 @@
+Patient ID,Patient Name,Age,Gender,Hypertension,Heart Disease,Marital Status,Work Type,Residence Type,Average Glucose Level,Body Mass Index (BMI),Smoking Status,Alcohol Intake,Physical Activity,Stroke History,Family History of Stroke,Dietary Habits,Stress Levels,Blood Pressure Levels,Cholesterol Levels,Symptoms,Diagnosis
+23954,Taran Khatri,25,Male,0,0,Married,Private,Urban,71.38,39.0,Non-smoker,Rarely,Moderate,0,Yes,Gluten-Free,0.46,170/64,"HDL: 72, LDL: 174",Seizures,Stroke
+54582,Fateh Bath,18,Male,1,0,Married,Private,Urban,91.47,27.27,Formerly Smoked,Never,Moderate,0,Yes,Pescatarian,0.87,141/92,"HDL: 58, LDL: 141",Numbness,No Stroke
+26552,Zain Sura,22,Female,0,1,Divorced,Private,Rural,164.16,34.12,Currently Smokes,Social Drinker,Moderate,0,Yes,Vegan,7.68,90/91,"HDL: 34, LDL: 106","Confusion, Dizziness, Severe Fatigue, Dizziness, Weakness",No Stroke
+85930,Jivika Sundaram,26,Female,0,0,Divorced,Government Job,Urban,197.41,27.94,Formerly Smoked,Frequent Drinker,Low,0,Yes,Paleo,8.12,102/107,"HDL: 47, LDL: 188","Confusion, Loss of Balance, Severe Fatigue",No Stroke

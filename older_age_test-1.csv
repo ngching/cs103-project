@@ -1,0 +1,6 @@
+Patient ID,Patient Name,Age,Gender,Hypertension,Heart Disease,Marital Status,Work Type,Residence Type,Average Glucose Level,Body Mass Index (BMI),Smoking Status,Alcohol Intake,Physical Activity,Stroke History,Family History of Stroke,Dietary Habits,Stress Levels,Blood Pressure Levels,Cholesterol Levels,Symptoms,Diagnosis
+20310,Dharmajan Saini,65,Male,0,0,Divorced,Never Worked,Urban,66.57,38.97,Formerly Smoked,Frequent Drinker,Moderate,1,Yes,Vegan,1.87,114/106,"HDL: 31, LDL: 159","Dizziness, Severe Fatigue, Seizures, Seizures, Weakness",Stroke
+37504,Krish Kulkarni,82,Male,0,0,Divorced,Self-employed,Urban,111.23,28.83,Currently Smokes,Rarely,High,1,Yes,Non-Vegetarian,8.39,119/88,"HDL: 32, LDL: 88",,No Stroke
+87150,Aniruddh Balasubramanian,75,Male,1,1,Single,Self-employed,Urban,61.78,31.66,Formerly Smoked,Never,Low,1,No,Pescatarian,2.79,134/94,"HDL: 48, LDL: 137","Difficulty Speaking, Weakness, Numbness",Stroke
+29307,Advika Kota,62,Female,0,0,Single,Private,Urban,91.6,37.47,Currently Smokes,Social Drinker,High,0,No,Gluten-Free,4.85,132/64,"HDL: 80, LDL: 69",Severe Fatigue,Stroke
+96568,Ahana  Shenoy,80,Female,0,1,Married,Government Job,Urban,166.91,31.68,Non-smoker,Social Drinker,High,0,No,Vegetarian,8.0,137/109,"HDL: 68, LDL: 101","Dizziness, Headache",Stroke

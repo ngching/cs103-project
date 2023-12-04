@@ -1,0 +1,7 @@
+Patient ID,Patient Name,Age,Gender,Hypertension,Heart Disease,Marital Status,Work Type,Residence Type,Average Glucose Level,Body Mass Index (BMI),Smoking Status,Alcohol Intake,Physical Activity,Stroke History,Family History of Stroke,Dietary Habits,Stress Levels,Blood Pressure Levels,Cholesterol Levels,Symptoms,Diagnosis
+37504,Krish Kulkarni,82,Male,0,0,Divorced,Self-employed,Urban,111.23,28.83,Currently Smokes,Rarely,High,1,Yes,Non-Vegetarian,8.39,119/88,"HDL: 32, LDL: 88",,No Stroke
+54582,Fateh Bath,18,Male,1,0,Married,Private,Urban,91.47,27.27,Formerly Smoked,Never,Moderate,0,Yes,Pescatarian,0.87,141/92,"HDL: 58, LDL: 141",Numbness,No Stroke
+70667,Ranbir Rao,42,Male,1,0,Married,Government Job,Rural,60.48,20.81,Formerly Smoked,Social Drinker,Moderate,1,No,Keto,6.0,149/86,"HDL: 63, LDL: 179","Loss of Balance, Severe Fatigue",No Stroke
+26552,Zain Sura,22,Female,0,1,Divorced,Private,Rural,164.16,34.12,Currently Smokes,Social Drinker,Moderate,0,Yes,Vegan,7.68,90/91,"HDL: 34, LDL: 106","Confusion, Dizziness, Severe Fatigue, Dizziness, Weakness",No Stroke
+85930,Jivika Sundaram,26,Female,0,0,Divorced,Government Job,Urban,197.41,27.94,Formerly Smoked,Frequent Drinker,Low,0,Yes,Paleo,8.12,102/107,"HDL: 47, LDL: 188","Confusion, Loss of Balance, Severe Fatigue",No Stroke
+81347,Gokul Bhakta,47,Female,0,1,Divorced,Government Job,Rural,83.76,20.14,Non-smoker,Never,Low,1,No,Gluten-Free,9.15,102/85,"HDL: 30, LDL: 137","Numbness, Weakness",No Stroke
